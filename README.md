@@ -33,7 +33,7 @@ WordGuess is a simple console-based word guessing game written in C#. Players at
 4. Build and run the program
 
 ## Sample Output
-```csharp
+```bash
 Welcome to Word Checker Guessing Game!
     
 I have a sentence. You are to guess a word. If the sentence contains that word, you win, if not, you lose.
